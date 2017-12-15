@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 
 tmdbsimple = "*"
+"psycopg2" = "*"
 
 
 [dev-packages]
